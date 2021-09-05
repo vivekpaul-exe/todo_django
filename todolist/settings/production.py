@@ -1,0 +1,1 @@
+from todolist.settings.common import *
